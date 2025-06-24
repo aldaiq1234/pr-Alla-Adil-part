@@ -44,10 +44,6 @@
 └── README.md
 
 
-
-
-The API will be available at http://localhost:8000
-
 ## Machine Learning
 
 The `/notebooks` directory includes a Google Colab notebook that contains the complete ML pipeline:
