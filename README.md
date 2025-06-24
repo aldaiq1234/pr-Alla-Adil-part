@@ -28,7 +28,7 @@
 
 ## Project Structure
 
-```
+
 
 .
 ├── app/                # Backend application
@@ -45,9 +45,6 @@
 
 
 
-
-
-```
 
 The API will be available at http://localhost:8000
 
@@ -72,5 +69,3 @@ Example `.env` configuration:
 - GET /wialon/{vehicle_id} – Simulated telemetry data  
 - GET / – API status check
 
-
----
